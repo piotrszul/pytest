@@ -2,3 +2,10 @@
 def func(x):
     return x + 1
 
+
+def say_hello():
+    """ Return hello
+    """
+    pass
+
+
