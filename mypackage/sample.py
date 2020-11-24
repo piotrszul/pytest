@@ -8,4 +8,5 @@ def say_hello():
     """
     pass
 
-
+def say_happy():
+   pass
