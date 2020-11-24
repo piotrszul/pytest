@@ -4,6 +4,8 @@ def func(x):
 
 
 def say_hello():
+    """ Return hello
+    """
     pass
 
 
